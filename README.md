@@ -25,7 +25,7 @@ The QFLCS program analyzes the measurement outcome probability ($\cal P$) data f
 
 |<kbd> ![QDF_Demo Line](QDF_demo_line.gif) </kbd>|
 |:--:| 
-|*QDF Heat Engine Sampling from the Oldest Postal Stamp (![from 1840](https://en.wikipedia.org/wiki/Penny_Black)) and Simulating the I/O by QFLCS*|
+|*QDF Heat Engine Sampling from the Oldest Postal Stamp ([from 1840](https://en.wikipedia.org/wiki/Penny_Black)) and Simulating the I/O by QFLCS*|
 
 - **a)** A particle pair’s energy state in a QDF (different GS states or sublevels of a GS, or see Sec. 3 of the published article), <br>
 - **b)** a particle state in an SF, an ES relative to a GS from (a.), prior to its transform into a QDF, and, <br>
