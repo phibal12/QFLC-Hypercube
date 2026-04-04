@@ -1,4 +1,4 @@
-# QFLC Hypercube: Hardware Synthesis Engine & Phase Simulator  
+# QFLCH: Quantum Field Lens Coding Hypercube, Hardware Synthesis Engine & Phase Model  
 Technical: [![On GitHub](https://img.shields.io/badge/GitHub-SoftwareImpacts-009688.svg?style=flat&amp;logo=github)](https://github.com/SoftwareImpacts/SIMPAC-2024-159)
 [![Mendeley Badge](https://img.shields.io/badge/Mendeley_Data-v.3%2B-%239D1620?logo=mendeley&logoColor=%239D1620
 )](https://data.mendeley.com/datasets/gf2s8jkdjf/3)
