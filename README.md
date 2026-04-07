@@ -153,8 +153,11 @@ ancilla  ───────────────[ X ]───┤       �
 
 ```
 
-#### Doubling the Information Density
-This transformation ($\kappa\Phi \to \Psi$) allows the observer to bypass standard one-shot measurement limitations via $n-2$ state elimination. Through this selective measurement, the system distinguishes between all four Bell states with a higher probability $P \ge 2/3$ according to Eq. (53). 
+#### Doubling the P vs. Information Density Increase
+
+On an event-by-event basis, "information density" is refer to self-information (or surprisal), which is 
+-log(p). Events with lower probability have higher information density because they provide more "surprise" or new information when they occur. 
+This transformation ($\kappa\Phi \to \Psi$) however, allows the observer to bypass standard one-shot measurement limitations via $n-2$ state elimination. Through this selective measurement, the system distinguishes between all four Bell states with a higher probability $P \ge 2/3$ according to Eq. (53). 
 
 This probability $P$ is measured at $\langle M \rangle$, which represents the adder Hamiltonian from the publication, where after measurement the final physical count is revealed or Decoherence safely occurs (from Ref. [2]).
 
