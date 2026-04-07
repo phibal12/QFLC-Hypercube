@@ -153,6 +153,12 @@ ancilla  ───────────────[ X ]───┤       �
 
 ```
 
+#### Doubling the Information Density
+This transformation ($\kappa\Phi \to \Psi$) allows the observer to bypass standard one-shot measurement limitations via $n-2$ state elimination. Through this selective measurement, the system distinguishes between all four Bell states with a higher probability $P \ge 2/3$ according to Eq. (53). 
+
+This probability $P$ is measured at $\langle M \rangle$, which represents the adder Hamiltonian from the publication, where after measurement the final physical count is revealed or Decoherence safely occurs (from Ref. [2]).
+
+
 ## Author & Contact
 **Dr. Philip B. Alipour** *Quantum Architect & Hardware Engineering Researcher* For bug fixes, updates, or collaboration inquiries, please reach out via:
 * [philipbaback_orbsix@msn.com](mailto:philipbaback_orbsix@msn.com)
