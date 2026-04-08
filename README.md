@@ -43,8 +43,16 @@ The **Quantum Field Lens Coding Algorithm (QF-LCA) Synthesis Engine** is an inte
 
 By utilizing the QF-LCA model, this engine bypasses the visual and computational intractability of traditional Karnaugh Maps (K-maps). It leverages non-local entanglement bonds across *N*-dimensional space to perform global logic reduction—scaling seamlessly from simple 2D arrays up to massive 12D network topologies.
 
+## Live Widget Collection
+👉 **[Launch from QF-LCD Engines](#)** *(Replace with your GitHub Pages link)*
+👉 ***[Launch the QF-LCA Synthesis Engine Live](#)** *(Replace with your GitHub Pages link)*
+
+
 ## Live Widget
-👉 **[Launch the QF-LCA Synthesis Engine Live](#)** *(Replace with your GitHub Pages link)*
+👉 **[Launch the QF-LC Hypercube and Engine Live](#)** 
+|<kbd>  <img src="./root/DIB_GAbstract.png" title="QFLCA Graphical Abstract (DIB journal)" /> </kbd>|
+|:--:| 
+|*Graphical Abstract of QFLCA Dataset. ![Widget link:Field](./root/QF_LCH.html)*|
 
 ## Key Features
 
