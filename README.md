@@ -52,7 +52,7 @@ By utilizing the QF-LCA model, this engine bypasses the visual and computational
 👉 **[Launch the QF-LC Hypercube and Engine Live](#)** 
 |<kbd>  <img src="./root/DIB_GAbstract.png" title="QFLCA Graphical Abstract (DIB journal)" /> </kbd>|
 |:--:| 
-|*Graphical Abstract of QFLCA Dataset. ![Widget link:Field](./root/QF_LCH.html)*|
+|*Graphical Abstract of QFLCA Dataset. [Widget link:Field](QF_LCH.html)*|
 
 ## Key Features
 
